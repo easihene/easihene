@@ -5,9 +5,10 @@ I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate ab
 ## 🛠 Skills & Expertise
 
 - **Programming Languages**: SQL, Python, MATLAB, R
+- **ML/DL Tools**: Scikit-Learn, Tensorflow, PyTorch
 - **Data Engineering Tools**: Airbyte, SSIS, dbt, DuckDB, Dagster, Airflow, BigQuery, PySpark, Kafka, Terraform
 - **BI Analytics & Visualization Tools**: Power BI, Tableau, Superset, Kibana
-- **Remote Sensing and GIS Tools**: SNAP, ENVI, IDL, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS
+- **Remote Sensing and GIS Tools**: SNAP, ENVI, IDL, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, Leaflet
 
 ## 📈 Projects
 
