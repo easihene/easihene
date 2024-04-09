@@ -7,7 +7,7 @@ I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate ab
 - **Programming Languages**: SQL, Python, MATLAB, R
 - **Data Engineering Tools**: Airbyte, SSIS, dbt, DuckDB, Dagster, Airflow, BigQuery, PySpark, Kafka, Terraform
 - **BI Analytics & Visualization Tools**: Power BI, Tableau, Superset, Kibana
-- **GIS Tools**: ArcGIS, Mapbox, QGIS
+- **Remote Sensing and GIS Tools**: SNAP, ENVI, IDL, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS
 
 ## 📈 Projects
 
@@ -35,5 +35,5 @@ I'm always looking for new challenges and opportunities to leverage my data scie
 - LinkedIn: https://www.linkedin.com/in/elvis-asihene/
 
 ---
-⭐ From `Elvis Asihene` - Bridging the gap between data and actionable insights with passion and precision.
+⭐ From `Elvis Asihene` - Bridging the gap between data and domain knowledge to derive actionable insights with passion and precision.
 
