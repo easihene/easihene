@@ -4,7 +4,7 @@ I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate ab
 
 ## 🛠 Skills & Expertise
 
-- **Programming Languages**: SQL, Python, MATLAB, R
+- **Programming Languages**: SQL, Python, MATLAB, R, PowerShell
 - **ML/DL Tools**: Scikit-Learn, Tensorflow, PyTorch
 - **Data Engineering Tools**: Airbyte, SSIS, dbt, DuckDB, Dagster, Airflow, BigQuery, PySpark, Kafka, Terraform
 - **BI Analytics & Visualization Tools**: Power BI, Tableau, Superset, Kibana
