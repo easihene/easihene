@@ -33,6 +33,6 @@ I'm always looking for new challenges and opportunities to leverage my data scie
 
 ---
 
-**Current Project**: Mentoring and sprinting from local community BI experts on 10-week sql code challenges. 
+**Current Project**: Mentoring and sprinting with local community BI experts on a 10-week sql code challenges. 
 - Join us via https://github.com/easihene/10-Week-SQL-Business-Intelligence-Challenges
 
