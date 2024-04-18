@@ -1,6 +1,6 @@
 # Hi there, I'm Elvis 👋
 
-I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate about turning data into actionable insights and innovative solutions. With extensive experience in **SQL**, **Python**, **MATLAB**, **R**, and a suite of **Data Engineering** and **BI Analytics & Visualization Tools**, I thrive on challenging the boundaries of data analysis and engineering to drive business growth and technological advancements.
+I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate about turning data into actionable insights and innovative solutions. With extensive experience in **SQL**, **Python**, **MATLAB**, **R**, and a suite of **Data Engineering** and **BI Analytics & Visualization Tools**. I thrive on challenging the boundaries of data analysis and engineering to drive business growth and technological advancements.
 
 ## 🛠 Skills & Expertise
 
