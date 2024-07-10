@@ -6,9 +6,9 @@ I'm a seasoned **Data Consultant**, passionate about helping organizations harne
 
 - **Programming Languages**: SQL, Python, MATLAB, R, IDL, PowerShell
 - **ML/DL Tools**: Scikit-Learn, Tensorflow, PyTorch, and Keras
-- **LLM**: GPT, Llama, Gemma, Mistral, Claude
+- **LLM**: GPT, Claude, Gemini, Llama, Gemma, and Mistral
 - **Data Engineering Tools**: Airbyte, SSIS, dbt, DuckDB, Dagster, Airflow, BigQuery, PySpark, Kafka, Terraform
-- **BI Analytics & Visualization Tools**: Power BI, Tableau, Superset, Kibana
+- **BI Analytics & Visualization Tools**: Power BI, Tableau
 - **Geoscience, Remote Sensing, and GIS Tools**: OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
 ## 📈 Projects
