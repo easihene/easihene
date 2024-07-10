@@ -1,6 +1,6 @@
 # Hi there, I'm Elvis 👋
 
-I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate about turning data into actionable insights and innovative solutions. With extensive experience in **SQL**, **Python**, **MATLAB**, **R**, and a suite of **Data Engineering** and **BI Analytics & Visualization Tools**. I thrive on challenging the boundaries of data analysis and engineering to drive business growth and technological advancements.
+I'm a seasoned **Data Consultant**, passionate about helping organizations harness the power of their data to achieve strategic goals and operational excellence. By integrating my geoscience expertise with cutting-edge data practices, I aim to deliver high-value solutions that drive sustainable growth and innovation.
 
 ## 🛠 Skills & Expertise
 
@@ -9,7 +9,7 @@ I'm a seasoned **Data Scientist** and **Data Engineering Expert**, passionate ab
 - **LLM**: GPT, Llama, Gemma, Mistral, Claude
 - **Data Engineering Tools**: Airbyte, SSIS, dbt, DuckDB, Dagster, Airflow, BigQuery, PySpark, Kafka, Terraform
 - **BI Analytics & Visualization Tools**: Power BI, Tableau, Superset, Kibana
-- **Remote Sensing and GIS Tools**: SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
+- **Geoscience, Remote Sensing, and GIS Tools**: OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
 ## 📈 Projects
 
@@ -24,7 +24,7 @@ Below are some of the projects I've worked on that showcase my skills in data an
 
 ## 🎓 Education
 
-- Phd in Geography (Remote Sensing) | University of Manitoba | Sep. 2019 - Feb. 2024
+- PhD in Geography | University of Manitoba | Sep. 2019 - Feb. 2024
 - MSc in Applied Geophysics | University of Ghana | Aug. 2016  - Jun. 2017
 - BSc in Geological Engineering | University of Mines and Technology | Aug. 2007  - Jun. 2011
 
