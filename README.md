@@ -32,7 +32,7 @@ Below are some of the projects I've worked on that showcase my skills in data en
 - **Development of Data Warehouse and Dart Mart**: Leveraged Microsoft Stack stack to design and implement an efficient and scalable Data Warehouse and Dart Mart for an e-commerce business.
 - **API data ingestion**: Developed a Python script to dynamically fetch N-1 data into a SQL-Server Database.
 - **Interactive Dashboards with Power BI and Mapbox**: Created interactive dashboards for business intelligence insights, enhancing decision-making processes across multiple departments.
-- **Mentoring: Sprinting with junior BI experts on a 10-week sql code challenge.
+- **Team Mentoring**: Sprinting with junior BI experts on a 10-week sql code challenge.
   -- `Join us via` -  https://github.com/easihene/10-Week-SQL-Business-Intelligence-Challenges
 
 
