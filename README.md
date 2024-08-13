@@ -29,10 +29,10 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 
 Below are some of the projects I've worked on that showcase my skills in data engineering, analysis, and business intelligence:
 
-- **Development of Data Warehouse and Dart Mart**: Leveraged Microsoft Stack stack to design and implement an efficient and scalable Data Warehouse and Dart Mart for an e-commerce business.
-- **API data ingestion**: Developed a Python script to dynamically fetch N-1 data into a SQL-Server Database.
-- **Interactive Dashboards with Power BI and Mapbox**: Created interactive dashboards for business intelligence insights, enhancing decision-making processes across multiple departments.
-- **Team Mentoring**: Sprinting with junior BI experts on a 10-week sql code challenge.
+- **Development of Enterprise Data Warehouse and Dart Mart**: Leveraged Microsoft Stack to design and implement an efficient and scalable Data Warehouse and Dart Mart for a financial institution.
+- **API data ingestion**: Developed a Python script to dynamically fetch N-1 data from an e-commerce platform into an SQL-Server Database.
+- **Interactive HR Management Dashboards**: Created interactive dashboards with Power BI for business intelligence insights, enhancing decision-making processes across multiple departments.
+- **Team Mentoring**: Sprinting with intermediate and senior BI experts on a 10-week sql code challenge.
   -- `Join us via` -  https://github.com/easihene/10-Week-SQL-Business-Intelligence-Challenges
 
 
