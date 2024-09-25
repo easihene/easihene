@@ -4,7 +4,7 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 
 ## 🛠 Skills & Expertise
 
-- **Programming Languages**: SQL, Python, DAX, MATLAB, R, IDL, PowerShell
+- **Programming Languages**: SQL, Python, PySpark, DAX, MATLAB, R, IDL, PowerShell
 - **Database Management**: Microsoft Stack (SQL Server, SSMS, SSIS, SSAS, SSRS) and PostgreSQL
 - **Azure Cloud Services**: ADF, ADLS, SQL Database, AAD, AKV, Databricks, Synapse, DevOps
 - **ETL Development**: Data pipeline creation and optimization
@@ -20,7 +20,7 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 
 ## 🛠 In-progress Technical Skills
 - **LLM**: GPT, Claude, Gemini, Llama, Gemma, and Mistral
-- **Data Engineering Tools**: Airbyte, dbt, DuckDB, Dagster, Airflow, PySpark, Debezium, Kafka, Terraform, Dremio
+- **Data Engineering Tools**: Airbyte, dbt, DuckDB, Dagster, Airflow, Debezium, Kafka, Terraform, Dremio
 - **MLOPs**: Mlflow, Clear ML, DVC, GitHub Actions, Flask
 - **Edge ML**: TensorFlow Lite, PyTorch Mobile, Edge Impulse
 - **Cloud Platform**: Azure Data Engineering Certification
