@@ -12,10 +12,6 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 - **Business Intelligence**: Reporting, dashboard creation
 - **Data Warehouse Design**: Relational and Dimensional modeling
 - **ML/DL Tools**: Scikit-Learn, Tensorflow, PyTorch
-- **Collaboration**: Cross-functional team leadership, stakeholder communication
-- **Problem-solving**: Analytical thinking, innovative solution development
-- **Time Management**: Multi-project handling, meeting deadlines
-- **Adaptability**: Quick learner of new technologies and methodologies
 - **Geoscience, Remote Sensing, and GIS Tools**: OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
 ## 🛠 In-progress Technical Skills
