@@ -25,7 +25,7 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 - **Business Intelligence**: Reporting, dashboard creation
 - **Data Warehouse Design**: Relational and Dimensional modeling
 - **Data Lakehouse Platform**: Dremio, Databricks
-- **ML/DL/MlOP Tools**: Scikit-Learn, TensorFlow, PyTorch, Mlflow
+- **ML/DL/MlOP Tools**: Scikit-Learn, TensorFlow, PyTorch, MLflow
 - **LLM**: GPT, Claude, Gemini, Gemma, Llama 
 - **Geoscience, Remote Sensing, and GIS Tools**: RMSP, OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
