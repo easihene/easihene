@@ -11,6 +11,7 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 - [**Project and Time Management**](https://github.com/easihene/BIDashboardImages/blob/main/SharedCertificates/MitacsEdge_Project%20and%20Time%20Management.pdf) | Mitacs Edge Training | May 2023
 - [**Managing Big Data with SQL**](https://coursera.org/share/f9b77e6b3c644a9a2ae583924f584af9) | Coursera | Jan 2022
 - [**Applied Data Science with Python**](https://www.credly.com/badges/4719978b-86e6-49ad-b658-34a8f57b9162) | Duke University, Coursera | Mar 2019
+- [**The Business Intelligence Analyst Course**](https://www.udemy.com/certificate/UC-HJAEQYLX/) | 365 Careers, Udemy | Jan 2019
 
 
 ## 🛠 Skills & Expertise
