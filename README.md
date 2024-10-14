@@ -2,24 +2,34 @@
 
 I'm a seasoned **Data Professional**, passionate about helping organizations harness the power of their data to achieve strategic goals and operational excellence. By integrating my geoscience expertise with cutting-edge data practices, I aim to deliver high-value solutions that drive sustainable growth and innovation.
 
+## 🎓 Professional Certificates and Courses
+
+- **Certification Exam** | Microsoft Azure Data Engineering | In-progress
+- [**Computer Vision**](https://www.kaggle.com/learn/certification/easihene1/computer-vision) | Kaggle | Dec 2023
+- [**Intro to Deep Learning**](https://www.kaggle.com/learn/certification/easihene1/intro-to-deep-learning) | Kaggle | Dec 2023
+- **Project and Time Management** | Mitacs Edge Training | May 2023
+- [**Applied Data Science with Python**](https://www.credly.com/badges/4719978b-86e6-49ad-b658-34a8f57b9162) | Duke University, Coursera | Mar 2019
+- [**Managing Big Data with SQL**](https://coursera.org/share/f9b77e6b3c644a9a2ae583924f584af9) | Coursera | Jan 2022
+
 ## 🛠 Skills & Expertise
 
 - **Programming Languages**: SQL, Python, PySpark, DAX, MATLAB, R, IDL, PowerShell
-- **Database Management**: Microsoft Stack (SQL Server, SSMS, SSIS, SSAS, SSRS) and PostgreSQL
-- **Azure Cloud Services**: ADF, ADLS, SQL Database, AAD, AKV, Databricks, Synapse, DevOps
-- **ETL Development**: Data pipeline creation and optimization
+- **Database Management**: SQL Server, MySQL, PostgreSQL, DuckDB, SSIS, SSAS, SSRS
+- **Azure Cloud Services**: ADF, ADLS, SQL Database, AAD, AKV, Databricks, Synapse 
+- **CI/CD, Versioning and Provisioning**: DevOps, GitHub, Terraform
+- **ETL Development and Orchestration**: Airbyte, SSIS, ADF, Airflow
 - **Data Visualization**: Power BI, Tableau, Plotly
 - **Business Intelligence**: Reporting, dashboard creation
 - **Data Warehouse Design**: Relational and Dimensional modeling
-- **ML/DL Tools**: Scikit-Learn, Tensorflow, PyTorch
-- **Geoscience, Remote Sensing, and GIS Tools**: OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
+- **Data Lakehouse Platform**: Dremio, Databricks
+- **ML/DL/MlOP Tools**: Scikit-Learn, TensorFlow, PyTorch, Mlflow
+- **LLM**: GPT, Claude, Gemini, Gemma, Llama 
+- **Geoscience, Remote Sensing, and GIS Tools**: RMSP, OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
 ## 🛠 In-progress Technical Skills
-- **LLM**: GPT, Claude, Gemini, Llama, Gemma, and Mistral
-- **Data Engineering Tools**: Airbyte, dbt, DuckDB, Dagster, Airflow, Debezium, Kafka, Terraform, Dremio
-- **MLOPs**: Mlflow, Clear ML, DVC, GitHub Actions, Flask
+- **Data Engineering Tools**: dbt, Dagster, Debezium, Kafka
+- **MLOPs**: Clear ML, DVC, Flask
 - **Edge ML**: TensorFlow Lite, PyTorch Mobile, Edge Impulse
-- **Cloud Platform**: Azure Data Engineering Certification
 
 
 ## 📈 Projects
@@ -35,6 +45,7 @@ Below are some of the projects I've worked on that showcase my skills in data en
 
 ## 🎓 Education
 
+- PhD in Geography | University of Manitoba | Sep. 2019  - Jun. 2024
 - MSc in Applied Geophysics | University of Ghana | Aug. 2016  - Jun. 2017
 - BSc in Geological Engineering | University of Mines and Technology | Aug. 2007  - Jun. 2011
 
