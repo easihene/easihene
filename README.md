@@ -2,14 +2,16 @@
 
 I'm a seasoned **Data Professional**, passionate about helping organizations harness the power of their data to achieve strategic goals and operational excellence. By integrating my geoscience expertise with cutting-edge data practices, I aim to deliver high-value solutions that drive sustainable growth and innovation.
 
+
 ## 🎓 Professional Certificates and Courses
 
 - **Certification Exam** | Microsoft Azure Data Engineering | In-progress
 - [**Computer Vision**](https://www.kaggle.com/learn/certification/easihene1/computer-vision) | Kaggle | Dec 2023
 - [**Intro to Deep Learning**](https://www.kaggle.com/learn/certification/easihene1/intro-to-deep-learning) | Kaggle | Dec 2023
-- **Project and Time Management** | Mitacs Edge Training | May 2023
-- [**Applied Data Science with Python**](https://www.credly.com/badges/4719978b-86e6-49ad-b658-34a8f57b9162) | Duke University, Coursera | Mar 2019
+- [**Project and Time Management**](https://github.com/easihene/BIDashboardImages/blob/main/SharedCertificates/MitacsEdge_Project%20and%20Time%20Management.pdf) | Mitacs Edge Training | May 2023
 - [**Managing Big Data with SQL**](https://coursera.org/share/f9b77e6b3c644a9a2ae583924f584af9) | Coursera | Jan 2022
+- [**Applied Data Science with Python**](https://www.credly.com/badges/4719978b-86e6-49ad-b658-34a8f57b9162) | Duke University, Coursera | Mar 2019
+
 
 ## 🛠 Skills & Expertise
 
