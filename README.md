@@ -54,7 +54,7 @@ Below are some of the projects I've worked on that showcase my skills in data en
 
 ## 🚀 Let's Connect!
 
-I always seek new challenges and opportunities to leverage my data science and engineering skills. Whether you're looking to collaborate on a project or seeking advice in the field, feel free to reach out!
+I always seek new challenges and opportunities to leverage my data science and data engineering skills. Whether you're looking to collaborate on a project or seeking advice in the field, feel free to reach out!
 
 ---
 ⭐ From `Elvis Asihene` - Bridging the gap between data and domain knowledge to derive actionable insights with passion and precision.
