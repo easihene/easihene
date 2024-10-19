@@ -14,23 +14,23 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 - [**The Business Intelligence Analyst Course**](https://www.udemy.com/certificate/UC-HJAEQYLX/) | 365 Careers, Udemy | Jan 2019
 
 
-## 🛠 Skills & Expertise
+## 🛠 Technical Data Skills & Expertise
 
 - **Programming Languages**: SQL, Python, PySpark, DAX, MATLAB, R, IDL, PowerShell
 - **Database Management**: SQL Server, MySQL, PostgreSQL, DuckDB, SSIS, SSAS, SSRS
-- **Azure Cloud Services**: ADF, ADLS, SQL Database, AAD, AKV, Databricks, Synapse 
-- **CI/CD, Versioning and Provisioning**: DevOps, GitHub, Terraform
-- **ETL Development and Orchestration**: Airbyte, SSIS, ADF, Airflow
+- **Azure Cloud Services**: ADF, ADLS gen 2, SQL Database, AAD, AKV, Databricks, Synapse, Logic Apps, Functions 
+- **CI/CD, Versioning and Provisioning**: Azure DevOps, GitHub, Terraform
+- **Data Orchestration**: Airbyte, ADF, Airflow, dbt
 - **Data Visualization**: Power BI, Tableau, Plotly
-- **Business Intelligence**: Reporting, dashboard creation
-- **Data Warehouse Design**: Relational and Dimensional modeling
+- **Data Platform**: Azure Synapse, Snowflake, BigQuery
 - **Data Lakehouse Platform**: Dremio, Databricks
-- **ML/DL/MlOP Tools**: Scikit-Learn, TensorFlow, PyTorch, MLflow
-- **LLM**: GPT, Claude, Gemini, Gemma, Llama 
+- **ML and Data Science**: Scikit-Learn, TensorFlow, PyTorch, MLflow
+- **LLM**: GPT, Claude, Gemini, Gemma, Llama
+- **Additional data skills**: Data Warehouse, Data Analytics, Cloud Migration, Technology Design
 - **Geoscience, Remote Sensing, and GIS Tools**: RMSP, OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
 ## 🛠 In-progress Technical Skills
-- **Data Engineering Tools**: dbt, Dagster, Debezium, Kafka
+- **Data Engineering Tools**: Dagster, Debezium, Kafka
 - **MLOPs**: Clear ML, DVC, Flask
 - **Edge ML**: TensorFlow Lite, PyTorch Mobile, Edge Impulse
 
