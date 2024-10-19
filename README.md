@@ -26,7 +26,7 @@ I'm a seasoned **Data Professional**, passionate about helping organizations har
 - **Data Lakehouse Platform**: Dremio, Databricks
 - **ML and Data Science**: Scikit-Learn, TensorFlow, PyTorch, MLflow
 - **LLM**: GPT, Claude, Gemini, Gemma, Llama
-- **Additional data skills**: Data Warehouse, Data Analytics, Cloud Migration, Technology Design
+- **Additional Data Skills**: Data Warehouse, Data Analytics, Cloud Migration, Technology Design
 - **Geoscience, Remote Sensing, and GIS Tools**: RMSP, OIGAS, SNAP, ENVI, Google Earth Engine, Sentinel Hub, ArcGIS, Mapbox, QGIS, Geopandas, LeafMap
 
 ## 🛠 In-progress Technical Skills
